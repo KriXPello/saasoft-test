@@ -45,6 +45,7 @@ const emit = defineEmits<{
 При появлении горизонтальной прокрутке справа отсутствовал паддинг,
 это решение исправляет проблему */
 .padding-wrapper {
+  min-width: 100%;
   padding: 0 16px 16px 16px;
   display: inline-block;
 }
