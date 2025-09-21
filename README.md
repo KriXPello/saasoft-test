@@ -1,17 +1,8 @@
-## Project Setup
+Тестовое задание для SaaSoft
 
-```sh
-npm install
-```
+Чтобы запустить в режиме разработки:
 
-### Compile and Hot-Reload for Development
+- склонировать репозиторий
+- выполнить `npm install`, затем `npm run dev`
 
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+Копия текста задания в [Task.pdf](./Task.pdf)
