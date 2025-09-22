@@ -29,7 +29,7 @@ const valueBind = defineModel<any>('value');
       :placeholder="placeholder"
       :type="type"
       :resizable="false"
-      show-password-on="mousedown"
+      show-password-on="click"
       @blur="emit('blur')"
     />
   </div>
